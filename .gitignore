@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+build/
+dist/
+*.app/
+*.dmg
+*.zip
+*.log
+__pycache__/
+*.pyc
